@@ -1,0 +1,58 @@
+~/Projects/homework ❯ ./master 1
+pid: 47438, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:37 2020
+pid: 47437, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:37 2020
+pid: 47438, got in, 1. try, Thu Mar 12 20:50:37 2020
+pid: 47437, got in, 1. try, Thu Mar 12 20:50:37 2020
+pid: 47442, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:37 2020
+pid: 47444, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:37 2020
+pid: 47441, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:37 2020
+pid: 47440, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:37 2020
+pid: 47443, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:37 2020
+pid: 47439, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:37 2020
+pid: 47444, trying to get into cricital section, attempt number: 2, Thu Mar 12 20:50:38 2020
+pid: 47442, trying to get into cricital section, attempt number: 2, Thu Mar 12 20:50:38 2020
+pid: 47441, trying to get into cricital section, attempt number: 2, Thu Mar 12 20:50:38 2020
+pid: 47443, trying to get into cricital section, attempt number: 2, Thu Mar 12 20:50:38 2020
+pid: 47440, trying to get into cricital section, attempt number: 2, Thu Mar 12 20:50:38 2020
+pid: 47439, trying to get into cricital section, attempt number: 2, Thu Mar 12 20:50:38 2020
+pid: 47444, trying to get into cricital section, attempt number: 3, Thu Mar 12 20:50:39 2020
+pid: 47441, trying to get into cricital section, attempt number: 3, Thu Mar 12 20:50:39 2020
+pid: 47444, got in, 3. try, Thu Mar 12 20:50:39 2020
+pid: 47441, got in, 3. try, Thu Mar 12 20:50:39 2020
+pid: 47442, trying to get into cricital section, attempt number: 3, Thu Mar 12 20:50:39 2020
+pid: 47443, trying to get into cricital section, attempt number: 3, Thu Mar 12 20:50:39 2020
+pid: 47439, trying to get into cricital section, attempt number: 3, Thu Mar 12 20:50:39 2020
+pid: 47440, trying to get into cricital section, attempt number: 3, Thu Mar 12 20:50:39 2020
+pid: 47442, trying to get into cricital section, attempt number: 4, Thu Mar 12 20:50:40 2020
+pid: 47443, trying to get into cricital section, attempt number: 4, Thu Mar 12 20:50:40 2020
+pid: 47439, trying to get into cricital section, attempt number: 4, Thu Mar 12 20:50:40 2020
+pid: 47440, trying to get into cricital section, attempt number: 4, Thu Mar 12 20:50:40 2020
+pid: 47442, trying to get into cricital section, attempt number: 5, Thu Mar 12 20:50:41 2020
+pid: 47442, got in, 5. try, Thu Mar 12 20:50:41 2020
+pid: 47443, trying to get into cricital section, attempt number: 5, Thu Mar 12 20:50:41 2020
+pid: 47443, got in, 5. try, Thu Mar 12 20:50:41 2020
+pid: 47439, trying to get into cricital section, attempt number: 5, Thu Mar 12 20:50:41 2020
+pid: 47440, trying to get into cricital section, attempt number: 5, Thu Mar 12 20:50:41 2020
+pid: 47439, didn't get to enter critical section
+pid: 47440, didn't get to enter critical section
+pid: 47445, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:43 2020
+pid: 47446, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:43 2020
+pid: 47445, got in, 1. try, Thu Mar 12 20:50:43 2020
+pid: 47446, got in, 1. try, Thu Mar 12 20:50:43 2020
+pid: 47448, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:43 2020
+pid: 47447, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:43 2020
+pid: 47448, trying to get into cricital section, attempt number: 2, Thu Mar 12 20:50:44 2020
+pid: 47447, trying to get into cricital section, attempt number: 2, Thu Mar 12 20:50:44 2020
+pid: 47448, trying to get into cricital section, attempt number: 3, Thu Mar 12 20:50:45 2020
+pid: 47447, trying to get into cricital section, attempt number: 3, Thu Mar 12 20:50:45 2020
+pid: 47447, got in, 3. try, Thu Mar 12 20:50:45 2020
+pid: 47448, trying to get into cricital section, attempt number: 4, Thu Mar 12 20:50:46 2020
+pid: 47448, got in, 4. try, Thu Mar 12 20:50:46 2020
+pid: 47449, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:49 2020
+pid: 47450, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:49 2020
+pid: 47449, got in, 1. try, Thu Mar 12 20:50:49 2020
+pid: 47450, got in, 1. try, Thu Mar 12 20:50:49 2020
+pid: 47451, trying to get into cricital section, attempt number: 1, Thu Mar 12 20:50:54 2020
+pid: 47451, got in, 1. try, Thu Mar 12 20:50:54 2020
+Sum of the numbers is: 113
+

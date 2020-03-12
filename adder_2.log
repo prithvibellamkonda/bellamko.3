@@ -1,0 +1,26 @@
+pid: 47177, index: 4, size: 5, Thu Mar 12 20:46:39 2020
+	adding array[4](5) and array[9](6) and writting result(11) in array[4]
+pid: 47175, index: 0, size: 1, Thu Mar 12 20:46:39 2020
+	adding array[0](1) and array[1](2) and writting result(3) in array[0]
+pid: 47179, index: 8, size: 9, Thu Mar 12 20:46:41 2020
+	adding array[8](9) and array[17](10) and writting result(19) in array[8]
+pid: 47180, index: 10, size: 11, Thu Mar 12 20:46:41 2020
+	adding array[10](11) and array[21](12) and writting result(23) in array[10]
+pid: 47178, index: 6, size: 7, Thu Mar 12 20:46:43 2020
+	adding array[6](7) and array[13](8) and writting result(15) in array[6]
+pid: 47182, index: 14, size: 15, Thu Mar 12 20:46:43 2020
+	adding array[14](15) and array[29](16) and writting result(31) in array[14]
+pid: 47184, index: 1, size: 5, Thu Mar 12 20:46:48 2020
+	adding array[1](2) and array[6](6) and writting result(8) in array[1]
+pid: 47183, index: 0, size: 4, Thu Mar 12 20:46:48 2020
+	adding array[0](3) and array[4](11) and writting result(14) in array[0]
+pid: 47185, index: 2, size: 6, Thu Mar 12 20:46:51 2020
+	adding array[2](3) and array[8](15) and writting result(18) in array[2]
+pid: 47186, index: 3, size: 7, Thu Mar 12 20:46:51 2020
+	adding array[3](4) and array[10](8) and writting result(12) in array[3]
+pid: 47188, index: 1, size: 3, Thu Mar 12 20:46:56 2020
+	adding array[1](8) and array[4](12) and writting result(20) in array[1]
+pid: 47187, index: 0, size: 2, Thu Mar 12 20:46:56 2020
+	adding array[0](14) and array[2](18) and writting result(32) in array[0]
+pid: 47230, index: 0, size: 1, Thu Mar 12 20:46:59 2020
+	adding array[0](32) and array[1](20) and writting result(52) in array[0]
